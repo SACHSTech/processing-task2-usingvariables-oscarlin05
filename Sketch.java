@@ -56,8 +56,8 @@ public class Sketch extends PApplet {
     
   //door
     stroke(0);
-    rect(195 * scaledwidth, 275 * scaledheight, 40 * scaledwidth, 50 * scaledheight);
     fill(74, 50, 1);
+    rect(195 * scaledwidth, 275 * scaledheight, 40 * scaledwidth, 50 * scaledheight);
     ellipse(230 * scaledwidth, 305 * scaledheight, 7 * scaledwidth, 7 * scaledheight);
 
   //window
